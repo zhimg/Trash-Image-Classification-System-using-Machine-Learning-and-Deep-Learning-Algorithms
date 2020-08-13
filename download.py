@@ -1,6 +1,7 @@
 '''
 This script downloads TACO's images from Flickr given an annotation json file
 Code written by Pedro F. Proenza, 2019
+
 '''
 
 import os.path
